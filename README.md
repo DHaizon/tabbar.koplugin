@@ -18,7 +18,9 @@ Inspired by [tabbedreader.koplugin](https://github.com/KodeshKit/tabbedreader.ko
 - **Close tabs** — close any tab from the tab menu. The last tab cannot be closed.
 - **Show/hide bar** — toggle the tab bar on or off. The preference persists across documents and KoReader restarts.
 - **Rotation support** — the tab bar and its touch zones adapt correctly to both portrait and landscape orientations.
-
+![Close tabs and Hide Tab Bar](tabsmenu.webp)
+![Reorder Tabs](reordermenu.webp)
+![Rotation support](horizontal.png)
 ---
 
 ## Files
@@ -74,6 +76,8 @@ After any of the above methods, the tab bar will appear automatically the next t
 ---
 
 ## Tab bar layout
+
+![Tab bar layout](tab.jpg)
 
 ```
 [ ☰ ] [ Book A: Ch.1 ] [ Book B: Ch.4 ] [ + ] [ ⇅ ]
