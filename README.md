@@ -121,7 +121,7 @@ After any of the above methods, the tab bar will appear automatically the next t
 1. Press **☰** → **Hide Tab Bar**.
 
 **From KoReader's main menu:**
-1. Menu → More tools → TabBar.
+1. Menu → Tools → More tools → Toggle Tabbed Reader bar.
 
 The bar state (visible or hidden) is saved globally and applies to all documents. To restore the bar, use the same menu entry.
 
