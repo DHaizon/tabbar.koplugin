@@ -129,6 +129,8 @@ After any of the above methods, the tab bar will appear automatically the next t
 
 The bar state (visible or hidden) is saved globally and applies to all documents. To restore the bar, use the same menu entry.
 
+You can use [shortcutstoolbar.koblugin](https://github.com/xusoo/shortcutstoolbar.koplugin) to add a shortcut to the reader.
+
 ---
 
 ## Configuration
