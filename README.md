@@ -43,8 +43,10 @@ Using the [AppStore plugin](https://github.com/omer-faruq/appstore.koplugin):
 1. Open KoReader → Tools → App Store.
 2. Pick the **Plugins** tab. Use the filter dialog to narrow by name.
 3. Search **TabBar** or **tabbar**.
-4. Tap the entry for a quick action menu. Choose **Install** to download the repo ZIP.
-5. Restart KoReader.
+4. Tap the entry **DHaizon/tabbar.koplugin**.
+5. Choose **Install plugin**.
+6. Choose **Direct download from repo**
+7. Restart KoReader.
 
 ### Option 2 — FileBrowserPlus (no PC required)
 
